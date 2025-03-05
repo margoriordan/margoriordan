@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I’m Margo.</h1>
 <h3 align="center">I enjoy absolutely anything that requires critical thinking and creative problem solving for practical solutions of real value.</h3>
 <h2 align="center">I'm currently a software engineer while pursuing a bachelor's in computer science.</h2>
-<h3 align="center">✨ My projected graduation date is winter 2024 ✨</h3>
+<h3 align="center">✨ My projected graduation date is soon! ✨</h3>
 
 <div align="center">email: margaret.rrdn@gmail.com</div>
 <!---
